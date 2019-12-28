@@ -1,10 +1,10 @@
 package clinic.programming.training;
-
+/*
 import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
 import static org.junit.Assert.*;
-
+*/
 public class ApplicationTest {
     private Application app;
     
@@ -13,7 +13,7 @@ public class ApplicationTest {
         app = new Application();
     }
     
-    
+/*    
     @Test
     public void testWordCountString() {
         int count = app.countWords("this is a test");
@@ -44,4 +44,5 @@ public class ApplicationTest {
         int count = app.countWords("test");
         assertTrue(count == 1);
     }
+*/
 }
